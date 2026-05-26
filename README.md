@@ -1,4 +1,5 @@
 # Fitting Poisson  distribution
+# Name : NAVEEN KUMAR S
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
